@@ -1,0 +1,23 @@
+{
+  "name": "node-react-demo",
+  "version": "1.0.0",
+  "description": "node+react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lijingyu1538/node-react-test-demo.git"
+  },
+  "keywords": [
+    "node",
+    "react"
+  ],
+  "author": "jingyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lijingyu1538/node-react-test-demo/issues"
+  },
+  "homepage": "https://github.com/lijingyu1538/node-react-test-demo#readme"
+}
